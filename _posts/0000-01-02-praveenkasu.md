@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text KASU
+KASU MODIFIED AFTER PULL REQUEST
 Use the left arrow to go back!
